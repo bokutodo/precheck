@@ -1,5 +1,4 @@
 use clap::{Parser, Subcommand};
-use anyhow::Result;
 mod git;
 
 #[derive(Parser)]
